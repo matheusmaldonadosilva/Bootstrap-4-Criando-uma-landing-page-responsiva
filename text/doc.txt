@@ -1,0 +1,65 @@
+Estrutura do html
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial scale=1">
+
+    <title></title>
+
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+
+<body>
+
+    <header>
+    <nav>
+
+    <ul>
+    <li>
+    
+    </li>
+    </ul>
+
+    </nav>
+
+    </header>
+
+    <main>
+
+    <figure>
+    
+    </figure>
+
+    <section>
+
+    <article>
+    <p> </p>
+    </article>
+
+    </section>
+
+    </main>
+
+    <footer>
+
+    </footer>
+
+</body>
+
+<script src="./js/function.js"></script>
+
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+
+tag <fugure> é uma tag usada para identar imagens no html 
+tag <section> conjunto de textos
+tag <article> para cada texto para
+

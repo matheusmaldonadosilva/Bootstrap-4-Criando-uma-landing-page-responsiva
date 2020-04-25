@@ -1,0 +1,44 @@
+.imagem-carroussel {
+    object-fit: cover; /* essa propriedade demonstra como o elemento se comporta com o container, com o cover ele não ira achatar a imagem */
+    object-position: 0 100%; /* essa propriedade serve para ter uma noção da posição da imagem com o eixo x e y, com eixo y de 50% para ajeitar a altura */
+    height: 500px;
+}
+
+.imagem-carroussel-dois {
+    object-fit: cover;
+    object-position: 0 55%;
+    height: 500px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.texto-cor-especial {
+    color: darkred!important; /* usar o important para sobrescrever do bootstrap */
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+#botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+#item-card {
+    border-color: darkred;
+    max-width: 19rem; /* colocar o maximo do tamanho do card quando resposiva para modo mobile */
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+   /* object-position: 0 55%; */
+    height: 200px;
+}
+
+#section-receitas {
+    background-color: gainsboro;
+}
+
